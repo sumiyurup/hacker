@@ -54,11 +54,7 @@ feed:
 # Post's page cover as a per-post basis _posts/...
 # Disqus comments as a per-post basis
 # ...
-build:
-  command: bundle exec jekyll build
-  commandOrigin: ui
-  publish: /opt/build/repo/_site
-  publishOrigin: ui
+
 # Settings for building master branch with travis-ci
 # with jekyll-travis
 
