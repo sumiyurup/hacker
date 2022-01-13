@@ -1,14 +1,14 @@
 ---
 layout: post
 current: post
-cover: assets/images/a-history-of-computation-by-justice-conder.jpg
+cover: /assets/images/a-history-of-computation-by-justice-conder.jpg
 navigation: false
 title: A History of Computation by Justice conder
 date: 2018-04-18 10:18:00
-tags: 
+tags:
 class: post-template
-subclass: 'post'
-logo: assets/images/ghost.png
+subclass: "post"
+logo: /assets/images/ghost.png
 author: ghost
 ---
 

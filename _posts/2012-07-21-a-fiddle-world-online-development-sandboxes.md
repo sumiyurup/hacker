@@ -8,9 +8,8 @@ date: 2012-08-30 10:18:00
 tags: []
 class: post-template
 subclass: "post"
-logo: assets/images/ghost.png
+logo: /assets/images/ghost.png
 author: ghost
-
 ---
 
 Several development sandboxes have popped up online in the last year that are well worth your time to check out. Dev sandboxes allow for bug isolation, test driving new libraries, sharing programming problems, and saving solutions for later referral. These are the top four.
@@ -23,7 +22,7 @@ Several development sandboxes have popped up online in the last year that are we
 
 ![sqlFiddle](/assets/images/sing-2.png)
 
-[xmlFiddle](https://href.li/?http://www.xmlfiddle.com) - *A sandbox for XML development, including XSL, XPath, XQuery, Schema, DTD and RelaxNG.
+[xmlFiddle](https://href.li/?http://www.xmlfiddle.com) - \*A sandbox for XML development, including XSL, XPath, XQuery, Schema, DTD and RelaxNG.
 
 ![xmlFiddle](/assets/images/sing-3.png)
 
@@ -35,6 +34,6 @@ I hope you find these resources useful. Let me know in the comments how you are 
 
 ![Share all the codes!](/assets/images/sing-5.jpg)
 
-*Note: This website is actually called XML Playground but I took the liberty of purchasing the xmlfiddle.com domain and forwarding it to the site.
+\*Note: This website is actually called XML Playground but I took the liberty of purchasing the xmlfiddle.com domain and forwarding it to the site.
 
 Follow me on Twitter at [@SingularityHack](https://twitter.com/#!/singularityhack)https://href.li/?http://www.cougaarsoftware.com/files/CSI_Agents101.pdf)

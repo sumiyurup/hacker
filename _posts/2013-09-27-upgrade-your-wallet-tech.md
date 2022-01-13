@@ -8,15 +8,15 @@ date: 2013-09-27 10:18:00
 tags: []
 class: post-template
 subclass: "post"
-logo: assets/images/ghost.png
+logo: /assets/images/ghost.png
 author: ghost
 ---
 
 Does your wallet still look like this? Wow. It’s time reassess your situation Mr. Costanza.
 
-Go Lean. Get rid of anything thats not an essential. For me, this means my drivers license, some credit cards, and an insurance card. Next step is to get a lean wallet. 
+Go Lean. Get rid of anything thats not an essential. For me, this means my drivers license, some credit cards, and an insurance card. Next step is to get a lean wallet.
 
-The [Slim fold wallet](https://href.li/?http://www.kickstarter.com/projects/667392092/slimfold-micro-a-super-thin-wallet-stitched-from-t?ref=email) is about as lean as they come but there are plenty others. Kickstarter has enabled an explosion of new ‘slim’ wallets. The Slim fold a super thin wallet stitched from Tyvek. It’s water proof and won’t rip. 
+The [Slim fold wallet](https://href.li/?http://www.kickstarter.com/projects/667392092/slimfold-micro-a-super-thin-wallet-stitched-from-t?ref=email) is about as lean as they come but there are plenty others. Kickstarter has enabled an explosion of new ‘slim’ wallets. The Slim fold a super thin wallet stitched from Tyvek. It’s water proof and won’t rip.
 
 ![image](/assets/images/blog-16.jpg)
 
@@ -36,6 +36,6 @@ If you don’t know how to pick a lock, I don’t know how can call your self a 
 
 **3. Phone stand**
 
-You stop by somebodies house. You’re chatting it up. “Oh, did you see that new preview?!!”. Don’t be the dweeb holding his cellphone up like his arm is a TV stand. Whip out [this bad boy](https://href.li/?http://www.gogostand.com/#order) and  set up like Mr. Miyagi.
+You stop by somebodies house. You’re chatting it up. “Oh, did you see that new preview?!!”. Don’t be the dweeb holding his cellphone up like his arm is a TV stand. Whip out [this bad boy](https://href.li/?http://www.gogostand.com/#order) and set up like Mr. Miyagi.
 
 ![image](/assets/images/blog-19.jpg)

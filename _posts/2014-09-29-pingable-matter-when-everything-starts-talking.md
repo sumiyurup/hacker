@@ -1,14 +1,14 @@
 ---
 layout: post
 current: post
-cover: assets/images/pingable-matter-when-everything-starts-talking.jpg
+cover: /assets/images/pingable-matter-when-everything-starts-talking.jpg
 navigation: false
 title: "Pingable Matter: This is a hammer."
 date: 2014-09-29 10:18:00
 tags: [internet of things, smart matter, smart dust, cyberspace, singularity]
 class: post-template
 subclass: "post"
-logo: assets/images/ghost.png
+logo: /assets/images/ghost.png
 author: ghost
 ---
 

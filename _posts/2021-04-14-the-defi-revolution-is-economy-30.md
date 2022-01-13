@@ -1,17 +1,17 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/the-defi-revolution-is-economy-30.jpg'
+cover: "/assets/images/the-defi-revolution-is-economy-30.jpg"
 navigation: true
 title: The Defi Revolution is Economy 3.0
 date: 2021-04-14 10:18:00
 tags: []
 class: post-template
-subclass: 'post'
+subclass: "post"
 author: ghost
 ---
 
-There is a global revolution happening right now and it’s happening so fast that unless you are explicitly told about it, it will very likely remain entirely invisible to you. The only inklings you may have that something is happening is headlines mentioning Bitcoin and another COVID-19 stimulus package. This revolution didn’t start this year or even last but it has accelerated so dramatically the past three months that it is clear that we have approached a tipping point. This global revolution that I speak of concerns the very nature and mechanics of the worldwide economy. This revolution is being fueled by digital assets, programmable money, and distributed autonomous organizations. What we are witnessing unfold before our very eyes is nothing less than the complete reimagining of human organization, industry, and trade. What we are witnessing is the birth of [Economy 3.0](https://href.li/?https://wiki.p2pfoundation.net/Economy_3.0).
+There is a global revolution happening right now and it’s happening so fast that unless you are explicitly told about it, it will very likely remain entirely invisible to you. The only inklings you may have that something is happening is headlines mentioning Bitcoin and another COVID-19 stimulus package. This revolution didn’t start this year or even last but it has accelerated so dramatically the past three months that it is clear that we have approached a tipping point. This global revolution that I speak of concerns the very nature and mechanics of the worldwide economy. This revolution is being fueled by digital /assets, programmable money, and distributed autonomous organizations. What we are witnessing unfold before our very eyes is nothing less than the complete reimagining of human organization, industry, and trade. What we are witnessing is the birth of [Economy 3.0](https://href.li/?https://wiki.p2pfoundation.net/Economy_3.0).
 
 **Convergence**
 
@@ -35,7 +35,7 @@ In 1987 the world had its first electronic stock exchange, the NASDAQ terminal. 
 
 Peterffy and his engineers came up with a solution. They built a mechanical robot with rubber fingers that typed entries into the keyboard. It’s reported that the inspector stormed out of the room upon seeing the hulking machine but it technically satisfied the NASDAQ rules. Traders said that on active trading days, the robot typed so fast that it sounded like a machine gun. Peterffy became the father of digital trading and this in turn would pave the way for algorithmic and high-frequency trading. He would write code in his head during the trading day and then apply his ideas to computerized trading models after hours. See: [The Man Behind Computerized Stock Trading](https://href.li/?https://www.npr.org/2015/04/23/401781306/we-built-a-robot-that-types-the-man-behind-computerized-stock-trading)
 
-In the following years, the stock market would become dominated by algorithmic trading and the majority of all currency would have its existence in digital form. But the key differentiator here that cannot be missed is this. What was being traded were records of ownership, not the actual assets themselves. But all that would change in the next advent of this saga in 2009 with the invention of the world’s first digitally scarce resource, Bitcoin.
+In the following years, the stock market would become dominated by algorithmic trading and the majority of all currency would have its existence in digital form. But the key differentiator here that cannot be missed is this. What was being traded were records of ownership, not the actual /assets themselves. But all that would change in the next advent of this saga in 2009 with the invention of the world’s first digitally scarce resource, Bitcoin.
 
 **Digital Currency**
 

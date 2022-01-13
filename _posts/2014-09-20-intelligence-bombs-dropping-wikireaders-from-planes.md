@@ -1,14 +1,14 @@
 ---
 layout: post
 current: post
-cover: assets/images/intelligence-bombs-dropping-wikireaders-from-planes.jpg
+cover: /assets/images/intelligence-bombs-dropping-wikireaders-from-planes.jpg
 navigation: false
 title: "Intelligence Bombs: Dropping WikiReaders from Planes"
 date: 2014-09-20 10:18:00
 tags: [singularity, artificial intelligence, wikipedia, cyberwar]
 class: post-template
 subclass: "post"
-logo: assets/images/ghost.png
+logo: /assets/images/ghost.png
 author: ghost
 ---
 

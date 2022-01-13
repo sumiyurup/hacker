@@ -1,14 +1,14 @@
 ---
 layout: post
 current: post
-cover: assets/images/the-bitbay.jpg
+cover: /assets/images/the-bitbay.jpg
 navigation: false
 title: The Bitbay
 date: 2014-06-13 10:18:00
 tags: [bitcoin, piracy, darkmarket, darkwallet, piratebay]
 class: post-template
 subclass: "post"
-logo: assets/images/ghost.png
+logo: /assets/images/ghost.png
 author: ghost
 ---
 

@@ -8,9 +8,8 @@ date: 2011-10-21 10:18:00
 tags: []
 class: post-template
 subclass: "post"
-logo: assets/images/ghost.png
+logo: /assets/images/ghost.png
 author: ghost
-
 ---
 
 The evolution of human/machine interface will travel through several definable epochs. Each epoch does not make the previous obsolete but does drastically alter and improve the efficiency and ease of our interaction with technology and information.
@@ -36,8 +35,6 @@ In time, the technology will reach a point where it is feasible to wear. This wi
 ![Augmented Reality Display Glasses](/assets/images/augmented-4.png)
 
 Augmented reality will culminate in a fully immersive experience like the one shown in the video below.
-
-
 
 Augmented reality will open new worlds. Listen and see:
 [2 Hi3 Fr0m Far Cil3nia Pt. 1 (mp3)](https://href.li/?http://dl.dropbox.com/u/16759714/Hosted Audio/2 Hi3 Fr0m Far Cil3nia/2 Hi3 Fr0m Far Cil3nia Pt1.mp3)

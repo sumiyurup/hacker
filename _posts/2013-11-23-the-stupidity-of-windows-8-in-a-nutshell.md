@@ -8,7 +8,7 @@ date: 2013-11-23 10:18:00
 tags: []
 class: post-template
 subclass: "post"
-logo: assets/images/ghost.png
+logo: /assets/images/ghost.png
 author: ghost
 ---
 

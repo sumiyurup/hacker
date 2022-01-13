@@ -6,7 +6,7 @@ date: 2014-09-07 10:18:00
 tags: []
 class: post-template
 subclass: "post"
-logo: assets/images/ghost.png
+logo: /assets/images/ghost.png
 author: ghost
 title: In 1986, the McKinsey consulting group was asked...
 ---

@@ -1,16 +1,15 @@
 ---
 layout: post
 current: post
-cover: assets/images/the-supply-chain-race.jpg
+cover: /assets/images/the-supply-chain-race.jpg
 navigation: false
 title: The Supply Chain Race
 date: 2015-04-05 10:18:00
 tags: [kiva robots, boston dynamics, automation, supply chain]
 class: post-template
-subclass: 'post'
-logo: assets/images/ghost.png
+subclass: "post"
+logo: /assets/images/ghost.png
 author: ghost
-
 ---
 
 It’s not uncommon to hear people try to predict what the hot jobs of the future are going to be. Everything from machine learning to big data are put in this group, but one discipline that’s not mentioned is becoming increasingly important: supply chain engineering. It sounds boring, but it’s not. It’s the science of moving a thing from one place to another with the greatest speed and efficiency. Remember in the old cartoons when Wile E Coyote would put an order for a missile in the mailbox and a delivery truck would pull up and place the ordered item in the mailbox three seconds later? That’s the ultimate goal of this discipline. Let’s look at the big contenders in this race to own the supply chain.

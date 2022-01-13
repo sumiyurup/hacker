@@ -1,16 +1,15 @@
 ---
 layout: post
 current: post
-cover: assets/images/the-birth-of-cyberspace.jpg
+cover: /assets/images/the-birth-of-cyberspace.jpg
 navigation: false
 title: The Birth of Cyberspace
 date: 2015-01-04 10:18:00
 tags: [cyberspace, apple, neuromancer]
 class: post-template
-subclass: 'post'
-logo: assets/images/ghost.png
+subclass: "post"
+logo: /assets/images/ghost.png
 author: ghost
-
 ---
 
 William Gibson got the idea for the novel [Neuromancer](https://href.li/?http://en.wikipedia.org/wiki/Neuromancer) after seeing a bus stop poster for Apple. He began to imagine what this future would be like, when everybody lived inside a virtual universe. He named that universe “cyberspace”.

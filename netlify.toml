@@ -1,5 +1,0 @@
-build:
-  command: bundle exec jekyll build
-  commandOrigin: ui
-  publish: /opt/build/repo/_site
-  publishOrigin: ui

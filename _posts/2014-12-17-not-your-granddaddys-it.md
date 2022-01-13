@@ -1,16 +1,15 @@
 ---
 layout: post
 current: post
-cover: assets/images/not-your-granddaddys-it.jpg
+cover: /assets/images/not-your-granddaddys-it.jpg
 navigation: false
 title: Not Your Granddaddy’s IT
 date: 2014-12-17 10:18:00
 tags: [venture capital, startups, technology, api, blogging]
 class: post-template
-subclass: 'post'
-logo: assets/images/ghost.png
+subclass: "post"
+logo: /assets/images/ghost.png
 author: ghost
-
 ---
 
 I was recently told of an encounter between a group of venture capitalist and a small but established local technology company. I was told of the VC’s tour of the facility and the questions they asked the owner. There were three particular questions/complains from the potential investors that symbolize the shift in Information Technology that has occurred in only the last couple of years.

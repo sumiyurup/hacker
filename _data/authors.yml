@@ -4,7 +4,7 @@ ghost:
   url_full: https://singularityhacker.com/
   url: singularityhacker.com
   bio: The professional singular hacker
-  picture: assets/images/ghost.png
+  picture: /assets/images/ghost.png
   facebook:
   twitter:
   cover: False

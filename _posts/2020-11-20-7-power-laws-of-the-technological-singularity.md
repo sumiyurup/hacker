@@ -1,13 +1,13 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/7-power-laws-of-the-technological-singularity.jpg'
+cover: "/assets/images/7-power-laws-of-the-technological-singularity.jpg"
 navigation: false
 title: Out to Sea
 date: 2020-11-20 10:18:00
 tags: [technological, singularity, technology]
 class: post-template
-subclass: 'post'
+subclass: "post"
 author: ghost
 ---
 

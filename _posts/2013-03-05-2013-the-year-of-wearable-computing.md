@@ -8,9 +8,8 @@ date: 2013-03-05 10:18:00
 tags: []
 class: post-template
 subclass: "post"
-logo: assets/images/ghost.png
+logo: /assets/images/ghost.png
 author: ghost
-
 ---
 
 This will be the year. All tech trends and rumors point to the eminent emergence of wearing computing devices in at least four categories.
@@ -31,11 +30,11 @@ When Apple does something, they do it smooth. The ‘iWatch’ will most likely 
 
 ![image](/assets/images/2013-2.jpg)
 
-Samsung has also leaked some shots of a smart watch called the Galaxy Altius that it is planning to release this year. 
+Samsung has also leaked some shots of a smart watch called the Galaxy Altius that it is planning to release this year.
 
- **2. Activity Monitors**
+**2. Activity Monitors**
 
-Activity monitors are basically supped-up connected pedometers but their cool because they give you a lot of cool information about your habits and activities. 
+Activity monitors are basically supped-up connected pedometers but their cool because they give you a lot of cool information about your habits and activities.
 
 ![image](/assets/images/2013-3.png)
 
@@ -43,7 +42,7 @@ The newest and, in my opinion, greatest contender is the [Fitbit flex](https://t
 
 **3. Always on Wearable Cameras**
 
- We are literally seeing the beginning of large scale Life Logging. Life Logging is when you record every thing you see and hear. These cameras are made with that use case in mind.
+We are literally seeing the beginning of large scale Life Logging. Life Logging is when you record every thing you see and hear. These cameras are made with that use case in mind.
 
 ![image](/assets/images/2013-4.png)
 
@@ -51,12 +50,8 @@ The [Memoto](https://href.li/?http://memoto.com/) camera will be shipping to the
 
 **4. Google Glass**
 
- 
-
 ![image](/assets/images/2013-5.jpg)
 
-“The product (Google Glass Explorer Edition) will be available to United States Google I/O developers for $1,500, shipping early in 2013, while a consumer version is slated to be ready within a year of that.” - [Wikipedia.org](https://href.li/?http://en.wikipedia.org/wiki/Project_Glass#Prototypes) 
-
-
+“The product (Google Glass Explorer Edition) will be available to United States Google I/O developers for $1,500, shipping early in 2013, while a consumer version is slated to be ready within a year of that.” - [Wikipedia.org](https://href.li/?http://en.wikipedia.org/wiki/Project_Glass#Prototypes)
 
 So if, between social networking, 4Square check-ins, and emails, you occasionally feel attention-spaced drained and suffering from futureshock, you haven’t seen nothing yet. You’re about to get even more connected. [Wearable computers are the next platform war](https://href.li/?http://bits.blogs.nytimes.com/2012/04/17/wearable-computers-are-the-next-platform-wars-report-says/).

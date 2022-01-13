@@ -1,13 +1,13 @@
 ---
 layout: post
 current: post
-cover: assets/images/is-blockchain-a-fad.jpg
+cover: /assets/images/is-blockchain-a-fad.jpg
 navigation: True
 title: Is Blockchain a Fad?
 date: 2021-03-20 10:18:00
 tags: [blockchain, bitcoin, cryptocurrency]
 class: post-template
-subclass: 'post'
+subclass: "post"
 author: ghost
 ---
 
@@ -15,7 +15,7 @@ Blockchain is the technology on which Bitcoin and all other cryptocurrencies are
 
 Think twice before you listen to advice from people who don’t know the difference between Bitcoin and Blockchain. You might as well take technology advice from someone who doesn’t know the difference between Facebook and the World Wide Web. For as many naysayers, there are thought leaders who pronounce Blockchain as his greatest discovery of man since fire, the wheel, and the internet. Steve Wozniak for one compares it to the early days of Apple when they were still in the garage. The very fact that these disagreements and controversies exist points to the reality of how early we are in the development and application of this technology. The polarization is so deep right now you could almost say that the mental divide that existed between the pre-internet mindsets and the pioneers of the internet now exists between traditional internet thinkers and decentralized Blockchain thinkers. Time will show you who the truly prescient ones were. Consider the following analogy that illustrates where I think we are with this technology.
 
-Imagine we’re in the early nineteen hundreds and there are only 100,000 cars in the country. By 1908 there will be somewhere around 200,000 vehicles registered in the United States and around 500 companies busily making more types of cars. Ford leads the pack with the Model T, Buick is right behind them, and General Motors has just been founded and will be creating even more models. There are no shortage of critics. The president of a Michigan savings bank advised Horace Rackham, Henry Ford’s lawyer, not to invest in his client’s company, telling him, “The horse is here to stay, but the automobile is only a novelty – a fad.” The Washington Post stated that “Local horse dealers do not look upon the advent of the automobile with any degree of seriousness. It is true that society has taken up the automobile, but the dealers consider it nothing but a fad, which will not have as much permanency as the bicycle. They argue that the noise of the engine or motor will soon wear the tender nerves of the society belle or swell to a frazzle and that the odor of the locomobile is not at all agreeable to the sensitive nostrils.” - *The Washington Post* from May 14th, 1900
+Imagine we’re in the early nineteen hundreds and there are only 100,000 cars in the country. By 1908 there will be somewhere around 200,000 vehicles registered in the United States and around 500 companies busily making more types of cars. Ford leads the pack with the Model T, Buick is right behind them, and General Motors has just been founded and will be creating even more models. There are no shortage of critics. The president of a Michigan savings bank advised Horace Rackham, Henry Ford’s lawyer, not to invest in his client’s company, telling him, “The horse is here to stay, but the automobile is only a novelty – a fad.” The Washington Post stated that “Local horse dealers do not look upon the advent of the automobile with any degree of seriousness. It is true that society has taken up the automobile, but the dealers consider it nothing but a fad, which will not have as much permanency as the bicycle. They argue that the noise of the engine or motor will soon wear the tender nerves of the society belle or swell to a frazzle and that the odor of the locomobile is not at all agreeable to the sensitive nostrils.” - _The Washington Post_ from May 14th, 1900
 
 Consider the following parallels. Blockchain is to the crypto ecosystem what the internal combustion engine was to the automobile ecosystem. Bitcoin is the Model T of this new burgeoning ecosystem. It has all the brand recognition and it’s come to be almost entirely identified with the automobile itself. But there are many other types of automobiles on the road and many more will come that bring their own unique properties, strengths, and weaknesses. There are numerous other cryptocurrencies and Blockchains that exist besides Bitcoin. There were many unorthodox car designs in the early days and even foolish applications of the internal combustion engine but none of these discounted the entire revolution in transportation that was transpiring.
 

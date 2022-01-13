@@ -8,9 +8,8 @@ date: 2013-06-07 10:18:00
 tags: []
 class: post-template
 subclass: "post"
-logo: assets/images/ghost.png
+logo: /assets/images/ghost.png
 author: ghost
-
 ---
 
 We will see the beginnings of lifelogging in the next five years. Consider the amount of digital imagery we are generating. The next step is getting longer clips from eye view with devices like [Glass](https://href.li/?http://www.google.com/glass/start/how-it-feels/) and [Memoto](https://href.li/?https://www.youtube.com/watch?v=QsXeMrqNG9c). We are five years away from the potential capability to continuously record your visual and auditory experience. Take not of the storage feasibility:
@@ -20,8 +19,6 @@ We will see the beginnings of lifelogging in the next five years. Consider the a
 Realistically, with multiplexing, it puts three or four video channels and a sound channel and other telemetry — a heart monitor, say, a running GPS/Galileo location signal, everything I type and every mouse event I send — onto that chip, while I’m awake. All the time. It’s a life log; replay it and you’ve got a journal file for my life.” - [Charles Stross](https://href.li/?http://www.antipope.org/charlie/blog-static/2007/05/shaping_the_future.html)
 
 As a realistic prediction of the issues involved with lifelogging, there probably is no better video than this one:
-
-
 
 Why would someone want to log his or her life you ask? In one word I would say ‘searchable’. If your life is completely digitized you can analyze and file things away. You can tease new information from it and query it. You get the idea.
 

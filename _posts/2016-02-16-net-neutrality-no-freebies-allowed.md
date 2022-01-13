@@ -1,14 +1,14 @@
 ---
 layout: post
 current: post
-cover: assets/images/net-neutrality-no-freebies-allowed.jpg
+cover: /assets/images/net-neutrality-no-freebies-allowed.jpg
 navigation: false
 title: " Net Neutrality: No Freebies Allowed"
 date: 2016-02-16 10:18:00
 tags: [free basics, net neutrality, facebook]
 class: post-template
 subclass: "post"
-logo: assets/images/ghost.png
+logo: /assets/images/ghost.png
 author: ghost
 ---
 

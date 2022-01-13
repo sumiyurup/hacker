@@ -8,7 +8,7 @@ date: 2014-09-12 10:18:00
 tags: [radioshack, 3dprinter, makerbot]
 class: post-template
 subclass: "post"
-logo: assets/images/ghost.png
+logo: /assets/images/ghost.png
 author: ghost
 ---
 

@@ -8,17 +8,17 @@ date: 2013-12-17 10:18:00
 tags: []
 class: post-template
 subclass: "post"
-logo: assets/images/ghost.png
+logo: /assets/images/ghost.png
 author: ghost
 ---
 
 **1. Human**
 
-This level of emulation represents human level intelligence. A program running at this level of sophistication would display the intelligence of man, generically speaking.  Like a souped up [Watson](https://href.li/?http://en.wikipedia.org/wiki/Watson_(computer)).
+This level of emulation represents human level intelligence. A program running at this level of sophistication would display the intelligence of man, generically speaking. Like a souped up [Watson](<https://href.li/?http://en.wikipedia.org/wiki/Watson_(computer)>).
 
 **2. \*A\* human**
 
-This level of human emulation simulates a unique software agent, an [‘intelligent’ agent](https://href.li/?http://en.wikipedia.org/wiki/Intelligent_agent). An emulation at this level changes over time and is capable of modifying the way in which achieves its objectives. 
+This level of human emulation simulates a unique software agent, an [‘intelligent’ agent](https://href.li/?http://en.wikipedia.org/wiki/Intelligent_agent). An emulation at this level changes over time and is capable of modifying the way in which achieves its objectives.
 
 **3. A \*particular\* human**
 

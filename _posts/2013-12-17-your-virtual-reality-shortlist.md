@@ -8,7 +8,7 @@ date: 2013-12-17 10:18:00
 tags: []
 class: post-template
 subclass: "post"
-logo: assets/images/ghost.png
+logo: /assets/images/ghost.png
 author: ghost
 ---
 
@@ -32,12 +32,12 @@ This one’s a game changer. This is the first affordable omnidirectional treadm
 
 ![image](/assets/images/mxyg0qwrEa1r0z1sd540.gif)
 
- It comes plug-n-play with any first person perspective game and is portable. It’s made so that your feet can only come back to the middle and not slide sideways. 
+It comes plug-n-play with any first person perspective game and is portable. It’s made so that your feet can only come back to the middle and not slide sideways.
 
 **4. [Myo](https://href.li/?https://www.thalmic.com/en/myo/)**
 
 Sooo you’re walking around a virtual world and your mind is being blown. Eventually you’re going to want to reach out and interact with it. The Myo controllers are your in-game fine motor skills. ![image](/assets/images/mxyg9dZlx11r0z1sd540.gif)
 
-They are bands worn on the forearms that detect the unique electrical signals created my hand movements. This means that a game can know precisely what your hards are doing, like grasping and manipulating objects. And by ‘objects’ I mean giant swords and guns. 
+They are bands worn on the forearms that detect the unique electrical signals created my hand movements. This means that a game can know precisely what your hards are doing, like grasping and manipulating objects. And by ‘objects’ I mean giant swords and guns.
 
-Happy shopping! 
+Happy shopping!

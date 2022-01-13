@@ -8,19 +8,17 @@ date: 2013-07-29 10:18:00
 tags: []
 class: post-template
 subclass: "post"
-logo: assets/images/ghost.png
+logo: /assets/images/ghost.png
 author: ghost
 ---
 
-Take a look at new technologies coming on the scene. Do you see a trend? The future is decentralized and decoupled. Among other things, this is the natural state of a system growing in robustness and ‘trying’ to preserve its self.  
+Take a look at new technologies coming on the scene. Do you see a trend? The future is decentralized and decoupled. Among other things, this is the natural state of a system growing in robustness and ‘trying’ to preserve its self.
 
 \1. Docker: The future is about containers of computing, not servers and VMs. Docker calls its self the Linux container engine. No dependencies and no environments. Wrap up the entire computational process (OS, file system, and all) and run it on the metal of any Linux box.
 
+\2. Diaspora: An open source distributed social network. Fire up your own Diaspora pod and freely connect with other pods. Diaspora is an open source social network of social networks if you will.
 
-
-\2. Diaspora: An open source distributed social network. Fire up your own Diaspora pod and freely connect with other pods. Diaspora is an open source social network of social networks if you will. 
-
-“Diaspora is a nonprofit, user-owned, distributed social network. Diaspora consists of a group of independently owned pods which interoperate to form the network.” - [wikipedia](https://href.li/?http://en.wikipedia.org/wiki/Diaspora_(social_network))
+“Diaspora is a nonprofit, user-owned, distributed social network. Diaspora consists of a group of independently owned pods which interoperate to form the network.” - [wikipedia](<https://href.li/?http://en.wikipedia.org/wiki/Diaspora_(social_network)>)
 
 \3. Bitcoin: A crypto currency with no central controller or central bank. This makes it possible to send someone money without intermediaries and with without fees. Bitcoin is basically digital cash. An interesting take.
 
