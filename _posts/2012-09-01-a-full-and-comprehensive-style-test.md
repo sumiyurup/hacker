@@ -7,12 +7,12 @@ title: A Full and Comprehensive Style Test
 date: 2012-09-01 10:00:00
 tags:
 class: post-template
-subclass: 'post'
-author: john
+subclass: "post"
+author: ghost
+logo: /assets/images/ghost.png
 ---
 
 <p>Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
-
 
 <hr />
 
@@ -140,28 +140,27 @@ author: john
 <p>These area a couple of examples showing the resulting highlighted code:</p>
 
 {% highlight css %}
-/* css code sample */
+/_ css code sample _/
 #container {
-    float: left;
-    margin: 0 -240px 0 0;
-    width: 100%;
+float: left;
+margin: 0 -240px 0 0;
+width: 100%;
 }
 {% endhighlight %}
-
 
 {% highlight javascript linenos %}
 // javascript code sample
 $.ajax({
-  type: 'POST',
-  url: 'backend.php',
-  data: "q="+myform.serialize(),
-  success: function(data){
-    // on success use return data here
-  },
-  error: function(xhr, type, exception) {
-    // if ajax fails display error alert
-    alert("ajax error response type "+type);
-  }
+type: 'POST',
+url: 'backend.php',
+data: "q="+myform.serialize(),
+success: function(data){
+// on success use return data here
+},
+error: function(xhr, type, exception) {
+// if ajax fails display error alert
+alert("ajax error response type "+type);
+}
 });
 {% endhighlight %}
 
@@ -175,21 +174,21 @@ For more on how to use it and on the available styles check their
 import Foundation
 
 @objc class Person: Entity {
-  var name: String!
-  var age:  Int!
+var name: String!
+var age: Int!
 
-  init(name: String, age: Int) {
-    /* /* ... */ */
-  }
+init(name: String, age: Int) {
+/_ /_ ... _/ _/
+}
 
-  // Return a descriptive string for this person
-  func description(offset: Int = 0) -> String {
-    return "\(name) is \(age + offset) years old"
-  }
+// Return a descriptive string for this person
+func description(offset: Int = 0) -> String {
+return "\(name) is \(age + offset) years old"
+}
 }
 </code></pre>
-</div>
 
+</div>
 
 <hr />
 

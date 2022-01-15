@@ -5,7 +5,7 @@
 <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/png" />
 <link
   rel="canonical"
-  href="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}"
+  href="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url }}"
 />
 <meta name="referrer" content="no-referrer-when-downgrade" />
 
@@ -117,5 +117,5 @@ assign excerpt = page.content | strip_html | truncatewords: 50, "" %} {% endif
   rel="alternate"
   type="application/rss+xml"
   title="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"
-  href="{{ site.baseurl }}feed.xml"
+  href="/feed.xml"
 />
