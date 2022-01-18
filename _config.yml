@@ -65,15 +65,6 @@ feed:
 # repo defaults to USERNAME.github.io
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
-safe: False
-lsi: False
-username: jekyllt
-repo: jasper2
-branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url: https://jekyllt.github.io/jasper2/
-source_url: https://github.com/jekyllt/jasper2/
 
 exclude:
   - assets/css
