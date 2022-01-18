@@ -1,5 +1,5 @@
 [build]
-  command = "bundle exec jekyll serve"
+  command = "bundle exec jekyll build"
   publish = "/build"
   base = "/"
   commandOrigin = "config"
