@@ -1,6 +1,6 @@
 [build]
   command = "bundle exec jekyll build"
-  publish = "/build"
+  publish = "/_site"
   base = "/"
   commandOrigin = "config"
 
