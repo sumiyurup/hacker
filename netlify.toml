@@ -1,10 +1,6 @@
 [build]
   command = "bundle exec jekyll build"
-  publish = "/opt/build/repo/build"
+  publish = "/build"
   base = "/"
   commandOrigin = "config"
 
-[[ redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
