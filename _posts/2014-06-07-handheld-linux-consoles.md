@@ -10,9 +10,10 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/85123100345/handheld-linux-consoles
 ---
 
-[OpenPandora](https://href.li/?http://en.wikipedia.org/wiki/Pandora_(console)) is the only fully functioning mobile Linux console on the market that I’m aware of. It's part handheld game console and part subnotebook. Full part awesome! 
+[OpenPandora](<https://href.li/?http://en.wikipedia.org/wiki/Pandora_(console)>) is the only fully functioning mobile Linux console on the market that I’m aware of. It's part handheld game console and part subnotebook. Full part awesome!
 
 The latest model of the computer is called the [Pyra](https://href.li/?http://www.pyra-handheld.com/) and it’s being crowd-designed right now. No predictions on price yet. Why is this such a cool piece of gear?
 
@@ -26,7 +27,7 @@ This is not a tablet or a phone aka a baby/micro computer. It’s a full-blown c
 
 \3. A rear eInk screen
 
-That last request would be insane. eInk is an underutilized technology. Check out the [Yota phone](https://href.li/?http://techcrunch.com/2014/02/23/next-gen-yotaphone/) as an amazing example. 
+That last request would be insane. eInk is an underutilized technology. Check out the [Yota phone](https://href.li/?http://techcrunch.com/2014/02/23/next-gen-yotaphone/) as an amazing example.
 
 The would love to see the whole project crowdfunded through something with a little more traffic like [Kickstarter](https://href.li/?https://www.kickstarter.com/). Until then, it will likely continue to be a niche and hard-to-find computer.
 

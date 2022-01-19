@@ -7,13 +7,13 @@ title: When Everything Wakes Up
 date: 2015-07-29 10:18:00
 tags: [technological singularity, internet of things, artificial intelligence]
 class: post-template
-subclass: 'post'
+subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
-
+redirect_from: /post/122629237375/when-everything-wakes-up
 ---
 
-Get ready for a world of talking toasters, ATM’s, snack machines, hotels, houses, and coffee pots. We’ve been conditioned by every single fictional depiction of AI as coming about abruptly. One day your at the DMV and the next day Skynet takes over.  This is called a hard takeoff and it gets nearly 100% of media coverage.
+Get ready for a world of talking toasters, ATM’s, snack machines, hotels, houses, and coffee pots. We’ve been conditioned by every single fictional depiction of AI as coming about abruptly. One day your at the DMV and the next day Skynet takes over. This is called a hard takeoff and it gets nearly 100% of media coverage.
 
 Nick Bostrom, popular AI academic, thinks this is the most likely scenario and that it will result is a single dominant super AI (a singleton).
 

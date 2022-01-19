@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/56825605940/the-future-is-decentralized-and-decoupled
 ---
 
 Take a look at new technologies coming on the scene. Do you see a trend? The future is decentralized and decoupled. Among other things, this is the natural state of a system growing in robustness and ‘trying’ to preserve its self.

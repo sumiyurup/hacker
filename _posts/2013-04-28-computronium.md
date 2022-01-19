@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/49130143758/computronium
 ---
 
 Primes’ fingers raced across the keyboard like two mechanical spiders. His eyes did not look down; instead they burned holes into the space before him. A sneer spread across his face and turned into a scowl. Smack, smack, smack! His hands spasmodically beat the keyboard into submission. Cryptic messages appeared among Primes notifications. ‘Unauthorized access.’ ‘Username already in use.’ ‘Invalid API token.’ His movements did not slow. Prime leaned into the computer deck and he seemed to flex his jaw muscles. He looked like something between an angry Mexican drug boss and an Asperger receptionist. Smack, smack, smack!

@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/139455712375/net-neutrality-no-freebies-allowed
 ---
 
 It’s pretty easy to get behind [Net Neutrality](http://t.umblr.com/redirect?z=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNet_neutrality&t=ZWM2YmY1YTRlNWRkN2Y0MWUzYWYwODZlMTg2ZDdiNDg2YzQyNjFiZixQeUdvcjhjdg%3D%3D) when it’s positioned as fairness rules that are protecting the people from greedy corporations. Any one who opposes it is immediately met with suspicion. Why would anyone oppose fair treatment with respect to Internet access? It’s assumed that the only plausible explanation for opposing Net Neutrality is that people are being paid off by corporations.

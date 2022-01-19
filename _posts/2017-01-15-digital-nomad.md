@@ -7,10 +7,10 @@ title: Polymath
 date: 2017-01-15 10:18:00
 tags: [polymath, blockchain, finance, ethereum]
 class: post-template
-subclass: 'post'
+subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
-
+redirect_from: /post/155928165035/digital-nomad
 ---
 
 1 - Power Source: 100W solar panel (about $150 on Amazon)
@@ -41,5 +41,4 @@ author: ghost
 
 14 - Movies: RIF6 Cube LED projector, Amazon Fire TV Stike, LTE hotspot
 
-**Note: large kitchen appliances are not used.
-
+\*\*Note: large kitchen appliances are not used.

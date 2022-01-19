@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/100495567660/intelligence-bombs-dropping-wikireaders-from-planes
 ---
 
 This post is about jumping over an industrial revolution straight to a technological singularity.

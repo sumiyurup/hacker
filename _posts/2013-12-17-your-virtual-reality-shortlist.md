@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/70342744357/your-virtual-reality-shortlist
 ---
 
 Virtual Reality is possible right now. You heard that right. For the first time in history, you can have fully immersive (running and looking around and grabbing things) VR experience at an affordable price. You’re going to need 4 things. This is your 2013 VR xmas shortlist.

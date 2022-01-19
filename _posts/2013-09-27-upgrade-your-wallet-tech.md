@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/62419851935/upgrade-your-wallet-tech
 ---
 
 Does your wallet still look like this? Wow. It’s time reassess your situation Mr. Costanza.

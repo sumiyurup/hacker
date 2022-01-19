@@ -3,13 +3,14 @@ layout: post
 current: post
 cover: assets/images/the-stupidity-of-windows-8-in-a-nutshell.jpg
 navigation: false
-title: "Whistleblower Movie NigThe Stupidity of Windows 8 in a Nutshell"
+title: "The Stupidity of Windows 8 in a Nutshell"
 date: 2013-11-23 10:18:00
 tags: []
 class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/64913226184/the-stupidity-of-windows-8-in-a-nutshell
 ---
 
 Tim Cook could not have said it better when he summarized Microsoft’s confusion. “..they’re trying to make PCs into tablets and tablets into PCs.”

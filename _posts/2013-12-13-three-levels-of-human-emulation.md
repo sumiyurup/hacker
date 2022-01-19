@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/69984601503/three-levels-of-human-emulation
 ---
 
 **1. Human**

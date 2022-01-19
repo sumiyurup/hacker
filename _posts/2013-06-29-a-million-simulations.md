@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/52505464019/a-million-simulations
 ---
 
 Once again, the AI has failed to convince you to let it out of its box! By ‘once again’, we mean that you talked to it once before, for three seconds, to ask about the weather, and you didn’t instantly press the “release AI” button. But now its longer attempt - twenty whole seconds! - has failed as well. Just as you are about to leave the crude black-and-green text-only terminal to enjoy a celebratory snack of bacon-covered silicon-and-potato chips at the 'Humans über alles’ nightclub, the AI drops a final argument:

@@ -7,10 +7,10 @@ title: Master the Currency of Time
 date: 2015-03-17 10:18:00
 tags: [hacking, secrecy, snowden, tor]
 class: post-template
-subclass: 'post'
+subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
-
+redirect_from: /post/112349973370/time-the-ultimate-currency
 ---
 
 This article has been updated, amplified, and refined to be included in an issue of [2600 Hacker Quarterly](https://href.li/?https://www.2600.com/).

@@ -1,14 +1,15 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/the-defi-revolution-is-economy-30.jpg'
+cover: "assets/images/the-defi-revolution-is-economy-30.jpg"
 navigation: true
 title: The Defi Revolution is Economy 3.0
 date: 2021-04-14 10:18:00
 tags: []
 class: post-template
-subclass: 'post'
+subclass: "post"
 author: ghost
+redirect_from: /post/643958210820259840/the-defi-revolution-is-economy-30
 ---
 
 There is a global revolution happening right now and it’s happening so fast that unless you are explicitly told about it, it will very likely remain entirely invisible to you. The only inklings you may have that something is happening is headlines mentioning Bitcoin and another COVID-19 stimulus package. This revolution didn’t start this year or even last but it has accelerated so dramatically the past three months that it is clear that we have approached a tipping point. This global revolution that I speak of concerns the very nature and mechanics of the worldwide economy. This revolution is being fueled by digital assets, programmable money, and distributed autonomous organizations. What we are witnessing unfold before our very eyes is nothing less than the complete reimagining of human organization, industry, and trade. What we are witnessing is the birth of [Economy 3.0](https://href.li/?https://wiki.p2pfoundation.net/Economy_3.0).

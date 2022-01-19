@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/85146754990/master-of-the-keyboard
 ---
 
 The keyboard is the developers palette. A keyboard, to a programmer, should be like an ax to a lumberjack. The keyboard is THE tool of the trade.

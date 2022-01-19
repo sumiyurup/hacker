@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/10300606492/the-blackberry-playbook-doesnt-exist
 ---
 
 I am truly shocked that so many people are being duped by BlackBerry’s recent announcement of their tablet, the PlayBook. I have read endless comments from people who are saying they can’t wait to get this tablet computer. Well, I think I have some bad news for you folks.

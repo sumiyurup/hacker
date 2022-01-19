@@ -10,7 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
-
+redirect_from: /post/49855538753/full-stack-developers-renaissance-men-of-the-21st
 ---
 
 Many powerful groups in this country are surprised that technology continues to shrink in size and cost while expanding in capabilities and power. These groups are either deluded into thinking that the next 100 years will be similar to the previous 100 years or they have a special interest in maintaining the status quo so they appose the coming changes.
@@ -25,8 +25,6 @@ Get a grip. That time is already here. The same could be said of all the advance
 
 \2. The State Department thinks they can suddenly control file sharing and 3D printing with it’s [recent demands](https://href.li/?http://onforb.es/12kjK0F) to have the Liberator 3D printed gun files removed from the creators servers. Not a chance. The orinal Liberator 3D model was downloaded 100,000 times within days of its posting and is still just as available today on PirateBay. Surprisingly, Kim Dotcom seems just as flabbergasted about the arrival of the Liberator gun. Technologist should know better.
 
+\3. North Carolina is specifically targeting Tesla Motors [with a bill](https://href.li/?http://abcn.ws/12kg2UF) that would require car manufacturers to exclusively sell through dealerships. This would be like a state freaking out over the emergence of e-commerce so they pass a bill requiring a ‘store’ to have a brick & mortar location.
 
-
-\3. North Carolina is specifically targeting Tesla Motors [with a bill](https://href.li/?http://abcn.ws/12kg2UF) that would require car manufacturers to exclusively sell through dealerships.  This would be like a state freaking out over the emergence of e-commerce so they pass a bill requiring a ‘store’ to have a brick & mortar location.
-
-Many more examples could be given, *ahem* [Uber](https://href.li/?http://read.bi/13CZ3jc). The point is this. If you have an interest in maintaining the status quo, get ready for future shock. IBM’s Watson will be a children's toy within fifteen years. Any business plan or legislative action that doesn't take this into account is destined to be ineffective and outmoded. 
+Many more examples could be given, _ahem_ [Uber](https://href.li/?http://read.bi/13CZ3jc). The point is this. If you have an interest in maintaining the status quo, get ready for future shock. IBM’s Watson will be a children's toy within fifteen years. Any business plan or legislative action that doesn't take this into account is destined to be ineffective and outmoded.

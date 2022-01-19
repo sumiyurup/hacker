@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/70209793620/living-code-future-software-will-rewrite-its-own
 ---
 
 The Defense Advanced Research Projects Agency (DARPA) has offered a [two million dollar bounty](https://href.li/?http://www.tomsguide.com/us/darpa-self-healing-software,news-17761.html) for self-healing software. Contestants must submit technical papers about their respective approaches in March of 2015 and be prepared for the ultimate showdown in 2016. The idea is to take zero-days down to zero-seconds. To put the timing of this challenge in perspective, remember that DARPA’s first grand challenge was for autonomous vehicles in 2004. Skip forward almost ten years and every self-respecting automotive manufacturer has plans for a line of automated cars. Following the same timeline, we should see impressive displays of living code around 2020.

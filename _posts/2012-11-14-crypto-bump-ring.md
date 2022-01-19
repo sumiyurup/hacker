@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/35740378077/crypto-bump-ring
 ---
 
 The cryto bump ring is a smartphone/computer peripheral concept. The idea is that two people wearing the rings are able to bump fists or shake hands to create uniqly related cryprographic keys enabling private p2p communication / file transfer. Other uses could include:

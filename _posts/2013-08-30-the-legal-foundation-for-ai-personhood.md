@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/59790918789/the-legal-foundation-for-ai-personhood
 ---
 
 It’s almost impossible for the average Joe on the street to imagine the monumental shifts in culture that are going to take place on the next fifteen years. See futurshock:

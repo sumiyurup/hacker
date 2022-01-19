@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/44662876695/2013-the-year-of-wearable-computing
 ---
 
 This will be the year. All tech trends and rumors point to the eminent emergence of wearing computing devices in at least four categories.

@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/97313954530/a-surefire-way-to-save-radioshack
 ---
 
 The news is bleak. RadioShack is pretty much doomed and will soon be filing for bankruptcy. While this isn’t a surprise (the company has been dying slowly over the last couple of years), I think they can be saved by a pivot. That pivot entails serving and catering to the maker community.

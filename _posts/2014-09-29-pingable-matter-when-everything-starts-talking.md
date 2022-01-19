@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/101276908930/pingable-matter-when-everything-starts-talking
 ---
 
 This is a hammer in 2060. It knows that it’s a hammer. It knows when and where it was made, when it was sold, who it belongs to, and how many nails its pounded. It carries its own history and MSDS sheets.

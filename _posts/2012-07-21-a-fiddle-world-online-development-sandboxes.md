@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/25592684500/a-fiddle-world-online-development-sandboxes
 ---
 
 Several development sandboxes have popped up online in the last year that are well worth your time to check out. Dev sandboxes allow for bug isolation, test driving new libraries, sharing programming problems, and saving solutions for later referral. These are the top four.

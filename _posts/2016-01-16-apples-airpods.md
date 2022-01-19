@@ -7,10 +7,10 @@ title: Apple’s AirPods
 date: 2016-01-16 10:18:00
 tags: [airpods, apple, iphone7]
 class: post-template
-subclass: 'post'
+subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
-
+redirect_from: /post/137453201025/apples-airpods
 ---
 
 Rumors are swirling that Apple will release wireless earbuds along side the iPhone 7 this year.
@@ -31,11 +31,11 @@ So, what are some features we could expect from these new wireless earbuds? You 
 
 \3. [Truebuds](https://href.li/?https://www.truebuds.io/): Tries to strike a balance between size and capabilities.
 
-\4. [Kanoa](https://href.li/?https://www.getkanoa.com/): These appear to be a more sporty option with an emphasis on audio fidelity and not on a bunch of extra sensors. 
+\4. [Kanoa](https://href.li/?https://www.getkanoa.com/): These appear to be a more sporty option with an emphasis on audio fidelity and not on a bunch of extra sensors.
 
 \5. [Moto Hint](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.motorola.com%2Fus%2Faccessories%2Ftalk%2Fbluetooth-headsets%2Fmoto-hint%2Fmoto-hint-pdp.html&t=YTllYmFkZGZhYjdlMTVhMzE0ZTExZGI0OWUxOGMxZWU0YTRmYTFhOCxWemJqTnJnQg%3D%3D&b=t%3Amc9oE5TJkAXO_RNMdoK8vQ&p=https%3A%2F%2Fsingularityhacker.com%2Fpost%2F137453201025%2Fapples-airpods&m=1&ts=1642043884): Functions more like a very intelligent bluetooth headset. From the website: “Use Moto Hint for the ultimate experience in voice control. Simply ask and get answers to questions like ‘do I need an umbrella today?’, 'what’s my next appointment?’, or 'how far am I from home?’ —all without reaching for your phone.”
 
-\6. [Doppler](https://href.li/?https://www.dopplerlabs.com/): Doppler lets you completely customize your hearing experience of the outside world. Their video explaining the philosophy is pretty amazing. 
+\6. [Doppler](https://href.li/?https://www.dopplerlabs.com/): Doppler lets you completely customize your hearing experience of the outside world. Their video explaining the philosophy is pretty amazing.
 
 Inside sources say that the headphones are similar in concept to the Motorola Hint headset and Bragi’s new Dash headphones and that the new headphones are likely to come with a carrying case that doubles as a rechargeable battery to juice up the headphones when they are not in use.
 

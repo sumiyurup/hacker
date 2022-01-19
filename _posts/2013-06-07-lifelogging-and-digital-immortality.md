@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/52489900210/lifelogging-and-digital-immortality
 ---
 
 We will see the beginnings of lifelogging in the next five years. Consider the amount of digital imagery we are generating. The next step is getting longer clips from eye view with devices like [Glass](https://href.li/?http://www.google.com/glass/start/how-it-feels/) and [Memoto](https://href.li/?https://www.youtube.com/watch?v=QsXeMrqNG9c). We are five years away from the potential capability to continuously record your visual and auditory experience. Take not of the storage feasibility:

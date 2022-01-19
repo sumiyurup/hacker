@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/62443559674/local-solid-state-backups
 ---
 
 Its a real pain to always be plugging in an external HDD to backup your computer. For that reason, people tend to not do it as frequently as they should. Another solution is to do it wirelessly over the network with some kind of NAS but that can be slow and it’s only available when you’re in THAT network.

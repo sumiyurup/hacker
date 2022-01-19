@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/69589422232/whistleblower-movie-night
 ---
 
 I promise you that your view of America will never be the same after viewing these films. I followed three rules in selecting these films: 1) Non fiction 2) About the USA 3) Very high ratings as films. An essential part of thriving in the singularity is knowing the true state of affairs. You will not get that from casual news watching. So pull up a bowl of popcorn and let history (Ellsberg) color your opinions of current events (Assange & Snowden).

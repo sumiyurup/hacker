@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/58287817509/entropy-and-random-number-generators
 ---
 
 This is a selection from a recent [Security Now podcas](https://href.li/?http://twit.tv/sn)t with Steve Gibson. I highly recommend listening to it.

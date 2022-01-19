@@ -1,14 +1,15 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/7-power-laws-of-the-technological-singularity.jpg'
+cover: "assets/images/7-power-laws-of-the-technological-singularity.jpg"
 navigation: false
 title: Out to Sea
 date: 2020-11-20 10:18:00
 tags: [technological, singularity, technology]
 class: post-template
-subclass: 'post'
+subclass: "post"
 author: ghost
+redirect_from: /post/636077420422807552/7-power-laws-of-the-technological-singularity
 ---
 
 When people talk about the technological singularity they usually do so exclusively in the context of Moore’s Law. But there are several Moore’s Law-like laws at work in the world and each of them is equally baffling. I’m referring to this list of trends as “power laws” because of the nature of their incredible rate of growth and because they independently work as pistons driving the engine of the singularity. A few things to note about these power laws. Firstly they are just observations. There are no, known, deeper physical principles in the universe that would lead us to believe that they must hold true. Secondly, we’ve observed these trends long enough to warren their recognition as power laws and there is no evidence or signs of their stagnating. We’ll start with the most famous and well-known power law and work our way through the others.

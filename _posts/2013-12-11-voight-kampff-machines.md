@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/69757867280/voight-kampff-machines
 ---
 
 Meet Samantha West. [Samantha](https://href.li/?http://io9.com/freakishly-realistic-telemarketing-robots-are-denying-t-1481050295) is a telemarketing [software agent](https://href.li/?http://en.wikipedia.org/wiki/Software_agent). A caller bot.

@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/52500986805/convergence-meatspace-crossing-into-cyberspace
 ---
 
 Real world objects are going online vie ’[the internet of things](https://href.li/?http://en.wikipedia.org/wiki/Internet_of_Things)’ and the Internet is breaking into the real world via [3d printing](https://href.li/?http://en.wikipedia.org/wiki/3D_printing). The Internet of things describes a state in which all the objects around you are connected to and controlled through the Internet. Door locks, Refrigerators, lamps, cars, lights, TV’s etc. This can be seen as the real world of objects spilling over into the domain of cyberspace.

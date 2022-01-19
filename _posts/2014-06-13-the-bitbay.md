@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/85648826500/the-bitbay
 ---
 
 The Pirate Bay is the most famous fire sharing brand in the world. It wasn’t always that way (remember Napster) and it wont be that way for much longer.

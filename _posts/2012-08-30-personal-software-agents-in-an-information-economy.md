@@ -10,7 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
-
+redirect_from: /post/30525344924/personal-software-agents-in-an-information-economy
 ---
 
 The basic principle of an information economy is that the individuals who can perform the most efficient, creative, and useful transformations on data make the most money. Thats an over simplification but it still gets at the heart of the matter. Well what happens when the tools of information processing become dramatically more powerful? Productivity and value explode. Today, a teenager with a $200 tablet computer can process information with greater efficiency than an entire organization of fifty years ago.
@@ -21,11 +21,7 @@ A software agent is a software program that acts for a user or other program in 
 
 Think little personal AI’s that tirelessly do our bidding. Lets look at the first players in this budding market.
 
-
-
 At the high end, we have IBM’s Watson but it will not be long before the same kind intelligence is available in your handset. [Watson 2.0 will be mobile phone accessible.](https://href.li/?http://www.kurzweilai.net/ibm-creating-pocket-sized-watson-in-16-billion-sales-push)
-
-
 
 Can we be confident that this kind of technological acceleration will continue. I’ll let the images below answer that question.
 
@@ -34,7 +30,6 @@ Can we be confident that this kind of technological acceleration will continue. 
 On the left we have a Cray 2 supercomputer from 1985 and on the right we have an iPad 2 from 2011.
 
 ![cray_vs_ipad](/assets/images/se-3.png)
-
 
 The present impact of emerging knowledge systems on different domains:
 

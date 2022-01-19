@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/50014784878/all-your-base-belong-to-the-twidiocracy
 ---
 
 Matt Labash, the senior writer for The Weekly Standard just released a critical piece about Twitter and it’s ecosystem titled ’[The Twidiocracy: The decline of Western civilization, 140 characters at a time.](https://href.li/?http://www.weeklystandard.com/articles/twidiocracy_719178.html?nopager=1)’ Feel free to read his article if you have a whole afternoon to waste (8k+ words).

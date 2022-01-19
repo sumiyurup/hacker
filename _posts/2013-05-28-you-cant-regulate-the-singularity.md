@@ -10,6 +10,7 @@ class: post-template
 subclass: "post"
 logo: assets/images/ghost.png
 author: ghost
+redirect_from: /post/49855538753/full-stack-developers-renaissance-men-of-the-21st
 ---
 
 The renaissance man that emerged in the 13th century was someone who could “do all things if he will”. The renaissance man of the 21st century is the developer who’s capable of executing a software project from the bottom up. This means they can wear the project manager hat and piece out the job, develop on the front-end and the back-end, market the resulting product or service, and subsequently maintain it.
